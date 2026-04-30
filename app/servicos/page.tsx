@@ -162,7 +162,7 @@ export default function ServicosPage() {
               Nossa equipe está pronta para avaliar suas necessidades e oferecer a melhor solução. Entre em contato conosco!
             </p>
             <a
-              href="https://w.app/srreformas"
+              href="https://wa.me/5571984836460?text=Ol%C3%A1%2C%20tudo%20bem%3F%20Gostaria%20de%20solicitar%20um%20or%C3%A7amento%20com%20a%20SrReformas"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block px-8 py-4 bg-white text-[#D93025] font-bold rounded-lg hover:bg-gray-100 transition-all duration-300 hover:shadow-xl hover:scale-105"
