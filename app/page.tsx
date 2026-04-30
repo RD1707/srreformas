@@ -394,7 +394,7 @@ export default function Home() {
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <a
-                  href="https://w.app/srreformas"
+                  href="https://wa.me/5571984836460?text=Ol%C3%A1%2C%20tudo%20bem%3F%20Gostaria%20de%20solicitar%20um%20or%C3%A7amento%20com%20a%20SrReformas"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center px-10 py-4 bg-gradient-to-r from-[#D93025] to-[#FF6B6B] text-white font-bold rounded-xl text-lg shadow-xl shadow-red-500/30 hover:shadow-red-500/50 transition-all duration-300 hover:scale-105"
